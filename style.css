@@ -1,0 +1,24 @@
+h1 {
+    color: white;
+}
+
+a {
+    margin-right: 75px;
+    margin-left: 75px;
+    text-decoration: none;
+    color: rgba(1, 136, 129, 0.87);
+}
+
+.about_me {
+    color: white;
+}
+
+body {
+    background-image: linear-gradient(to bottom, black, white);
+    font-family:sans-serif;
+    font-size: 25px;
+}
+
+html, body {
+    height: 100%;
+}
