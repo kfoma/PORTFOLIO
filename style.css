@@ -1,12 +1,29 @@
 h1 {
     color: white;
+    text-align: center;
+    font-family: ;
 }
 
 a {
     margin-right: 75px;
     margin-left: 75px;
     text-decoration: none;
-    color: rgba(1, 136, 129, 0.87);
+    color: black;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 0 5px 0 0 black;
+}
+
+a:focus {
+    box-shadow: inset 0 5px 0 2px black;
+    color: black;
+}
+
+a:hover {
+    background-color: lightblue;
+    transition: background-color 6s linear;
 }
 
 .about_me {
@@ -14,8 +31,8 @@ a {
 }
 
 body {
-    background-image: linear-gradient(to bottom, black, white);
-    font-family:sans-serif;
+    background-color: #007730;
+    font-family: ;
     font-size: 25px;
 }
 
