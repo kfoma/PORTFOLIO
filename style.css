@@ -1,7 +1,7 @@
 h1 {
     color: white;
     text-align: center;
-    font-family: ;
+    font-family: fantasy;
 }
 
 a {
@@ -23,19 +23,41 @@ a:focus {
 
 a:hover {
     background-color: lightblue;
-    transition: background-color 6s linear;
+    transition: background-color 2s linear;
+    padding: 15px;
 }
 
-.about_me {
+p {
     color: white;
 }
 
 body {
-    background-color: #007730;
-    font-family: ;
+    background-color: #17241B	;
+    font-family: cursive;
     font-size: 25px;
 }
 
 html, body {
     height: 100%;
 }
+
+.aboUtme {
+    border: 5px outset white;
+    border-radius: 15px;
+    margin-right: 150px;
+    margin-left:150px;
+    padding: 10px;
+}
+
+nav {
+    border: 5px inset white;
+    border-radius: 15px;
+    padding-bottom: 30px;
+    margin-right: 200px;
+    margin-left: 200px
+}
+
+nav p {
+    text-align: center;
+}
+
