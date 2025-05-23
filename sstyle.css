@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 790px;
+}
+
+nav {
+    border: 5px outset white;
+    border-radius: 20px;
+    padding: 20px 25px 20px 20px;
+    margin: 25px 125px 50px 125px;
+    background-color: darkslategray;
+}
+
+.img1 {
+    margin-left: 30px;
+    height: 460px;
+    width: 700px;
+}
+
+.img2 {
+    height: 460px;
+    width: 750px;
+    margin-left: 20px;
+}
+
+header {
+    border: 2px inset white;
+    background-color: darkslategray;
+}
+
+.table1 {
+    padding: 0 0 0 340px;
+}
+
+.table2 {
+    padding-left: 340px;
+}
+
+p {
+    font-size: 25px;
+}
+
+.img1:hover {
+    width: 740px;
+    height: 490px;
+    transition: 0.5s ease-out;
+}
+
+.img2:hover {
+    width: 795px;
+    height: 480px;
+    transition: 0.5s ease-out;
+}
+
+.img3:hover {
+    width: 990px;
+    transition: 0.5s ease-out;
+}
+
+.img4:hover {
+    width: 990px;
+    transition: 0.5s ease-out;
+}
