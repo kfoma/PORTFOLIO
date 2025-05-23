@@ -6,7 +6,7 @@ h1 {
 
 a {
     margin-right: 75px;
-    margin-left: 75px;
+    margin-left: 170px;
     text-decoration: none;
     color: black;
     border: 3px solid black;
@@ -32,7 +32,7 @@ p {
 }
 
 body {
-    background-color: #17241B	;
+    background-color: black;
     font-family: cursive;
     font-size: 25px;
 }
@@ -47,6 +47,7 @@ html, body {
     margin-right: 150px;
     margin-left:150px;
     padding: 10px;
+    background-color: darkslategrey;
 }
 
 nav {
@@ -54,10 +55,10 @@ nav {
     border-radius: 15px;
     padding-bottom: 30px;
     margin-right: 200px;
-    margin-left: 200px
+    margin-left: 200px;
+    background-color: darkslategray;
 }
 
 nav p {
     text-align: center;
 }
-
