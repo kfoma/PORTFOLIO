@@ -57,6 +57,7 @@ nav {
     margin-right: 200px;
     margin-left: 200px;
     background-color: darkslategray;
+     white-space: nowrap;
 }
 
 nav p {
